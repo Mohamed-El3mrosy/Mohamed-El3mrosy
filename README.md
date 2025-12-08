@@ -87,6 +87,9 @@ Currently focused on:
 
 ### Connect with Me :
 
-<a href="[https://www.linkedin.com/in/malek-galhoom-a74b70305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/mohmaed-elamrosey-6221b832b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/> </a> <a href="mailto:m.sameh.eng@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Email-D44638?style=for-the-badge&logo=Gmail&logoColor=white"/> </a> <a href="https://www.facebook.com/mohamed.sameh.361591/" target="_blank"> <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/> </a> <a href="https://x.com/Aboalhdied?t=t_vOsvgXo8uiQDj5ji9M5w&s=08" target="_blank"> 
+<a href="(https://www.linkedin.com/in/mohmaed-elamrosey-6221b832b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/> </a> 
+<a href="mailto:m.sameh.eng@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Email-D44638?style=for-the-badge&logo=Gmail&logoColor=white"/> </a>
+<a href="https://www.facebook.com/mohamed.sameh.361591/" target="_blank"> <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/> </a> 
+<a href="https://x.com/Aboalhdied?t=t_vOsvgXo8uiQDj5ji9M5w&s=08" target="_blank"> 
 
 > “Keep pushing forward. Every line of code brings you closer to mastery.” 💪

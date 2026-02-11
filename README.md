@@ -1,4 +1,5 @@
-<img width="1185" height="1390" alt="image" src="https://github.com/user-attachments/assets/5155be9e-33d9-4888-af7d-84c4e034e49b" /><h1 align="center">Hi there, I'm Mohamed Elamrosy 👋</h1>
+
+<h1 align="center">Hi there, I'm Mohamed Elamrosy 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif"/>

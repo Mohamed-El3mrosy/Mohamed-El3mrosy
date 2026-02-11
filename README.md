@@ -86,6 +86,6 @@ Currently focused on:
 <a href="https://x.com/Aboalhdied?t=t_vOsvgXo8uiQDj5ji9M5w&s=08" target="_blank"> 
 
 <a href="https://t.me/El3mrosey
-" target="_blank"><img src="https://img.shields.io/badge/Mohamed%20El3mrosey-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+" target="_blank">
 
 > “Keep pushing forward. Every line of code brings you closer to mastery.” 💪

@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, I'm Mohamed Elamrosy 👋</h1>
+<h1 align="center">Hi there, I'm Mohamed Alamrosy 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif"/>
